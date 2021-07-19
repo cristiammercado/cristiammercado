@@ -15,8 +15,11 @@ I have also had the experience of creating applications that connect to relation
 In frontend I've had the opportunity to work on some projects with tools lik with Angular 6+ with Material, ReactJS, Typescript, Bootstrap 3+, jQuery, DataTables, etc.
 
 If you want to contact me, here below I leave all the channels and social networks, do not hesitate to do so!
-[
-![Website: cristiammercado](https://img.shields.io/badge/Website-e7a600.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.cristiammercado.com/)](https://www.cristiammercado.com/en) [![Twitter: cristiammercado](https://img.shields.io/twitter/follow/cristiammercado?color=0CA1F3&label=Twitter&logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/cristiammercado) [![Linkedin: Cristiam Mercado](https://img.shields.io/badge/LinkedIn-779-blue?style=flat-square&logo=Linkedin&color=0C69BF&logoColor=white&link=https://www.linkedin.com/in/cristiammercado/)](https://linkedin.com/in/cristiammercado) [![GitHub Cristiam](https://img.shields.io/github/followers/cristiammercado?style=flat-square&logo=github&label=GitHub)](https://github.com/cristiammercado)
-<br><br>
+
+[![Website: cristiammercado](https://img.shields.io/badge/Website-e7a600.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.cristiammercado.com/)](https://www.cristiammercado.com/en) [![Twitter: cristiammercado](https://img.shields.io/twitter/follow/cristiammercado?color=0CA1F3&label=Twitter&logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/cristiammercado) [![Linkedin: Cristiam Mercado](https://img.shields.io/badge/LinkedIn-779-blue?style=flat-square&logo=Linkedin&color=0C69BF&logoColor=white&link=https://www.linkedin.com/in/cristiammercado/)](https://linkedin.com/in/cristiammercado) [![GitHub Cristiam](https://img.shields.io/github/followers/cristiammercado?style=flat-square&logo=github&label=GitHub)](https://github.com/cristiammercado)
+
+
+
+
 ![](https://komarev.com/ghpvc/?username=cristiammercado&color=E7A600)
 ![](https://hit.yhype.me/github/profile?user_id=4806666)
