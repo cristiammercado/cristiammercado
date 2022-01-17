@@ -3,7 +3,7 @@
 
 I'm a software developer from [Cartagena de Indias](https://en.wikipedia.org/wiki/Cartagena,_Colombia) but currently located in [Bogotá](https://en.wikipedia.org/wiki/Bogot%C3%A1).
 
-I have about 7 years of experience in the field of analysis, design, development and implementation of software in companies from different business sectors. Currently I work at [MercadoLibre](https://www.mercadolibre.com/).
+I have about 7 years of experience in the field of analysis, design, development and implementation of software in companies from different business sectors. Currently I work at [Addi](https://co.addi.com/).
 
 I have worked mainly with technologies on the JVM, specially with Java 8+, but I have also had the opportunity to develop in other languages and frameworks like NodeJS. 
 
@@ -11,7 +11,7 @@ In backend I've worked with frameworks like Spring Boot, Play Framework, Vert.x,
 
 I have also had the experience of creating applications that connect to relational and non-relational databases such as MySQL, PostgreSQL, DynamoDB, MongoDB and redis.
 
-In frontend I've had the opportunity to work on some projects with tools lik with Angular 6+ with Material, ReactJS, Typescript, Bootstrap 3+, jQuery, DataTables, etc.
+In frontend I've had the opportunity to work on some projects with tools like Angular 6+ with Material, ReactJS, Typescript, Bootstrap 3+, jQuery, DataTables, etc.
 
 If you want to contact me, here below I leave all the channels and social networks, do not hesitate to do so!
 
