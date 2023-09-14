@@ -3,7 +3,7 @@
 
 I'm a software developer from [Cartagena de Indias](https://en.wikipedia.org/wiki/Cartagena,_Colombia) but currently located in [Bogotá](https://en.wikipedia.org/wiki/Bogot%C3%A1).
 
-I have about 9 years of experience in the field of analysis, design, development and implementation of software in companies from different business sectors. Currently I work at [Tul](https://www.tul.io/).
+I have about 9 years of experience in the field of analysis, design, development and implementation of software in companies from different business sectors. Currently I work at [Rappi](https://www.rappi.com.co/).
 
 I have worked mainly with technologies on the JVM, specially with Java and Kotlin, but I have also had the opportunity to develop in other languages and frameworks like NodeJS. 
 
